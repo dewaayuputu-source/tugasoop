@@ -100,6 +100,8 @@
     <div>
         <p>NEW COLLECTION 2026</p>
         <h1>KAOSKEREN</h1>
+        <h2>ig:@kaoskeren.id<h2>
+        <h3>+62 812-3456-7891<h3>
     </div>
 </section>
 
